@@ -1,0 +1,12 @@
+openai
+pandas
+duckdb
+streamlit
+plotly
+sqlalchemy
+langchain
+python-dotenv
+fastapi
+uvicorn[standard]
+reportlab
+kaleido
